@@ -15,3 +15,9 @@ Doppler Weather Radar is an essential tool for meteorological observations, but 
 
 The study concludes that while the Wiener filter provides better results than the other two methods, it is not the best solution. Further work is required, particularly using machine learning models to achieve the least possible error in filtering RFI from DWR data.
 
+# Future Work
+
+While the Wiener filter showed better performance, there's still room for improvement. The next phase of this project will focus on developing a machine learning model to further reduce RFI with minimal error.
+
+# Contributions
+Contributions are welcome. Please fork this repository and submit a pull request.
